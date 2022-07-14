@@ -1,12 +1,10 @@
-Weather Company Data API access using NodeJs
-
-This project shows how to build a basic data access application that continuously runs in the background, processing a variety of weather data from the Weather Company Data for IBM REST API endpoints, including severe weather alerts, tropical storm forecasts, and the daily weather almanac to find conditions over time.
-Obtain a Weather Company API Key
-
-If you are participating in the Call for Code Global Challenge, request access to The Weather Company APIs. Registration is free and will be available while the Call for Code Global Challenge is taking place. After you agree to the terms, you will receive your API key. Additional documentation about The Weather Company APIs for Call for Code is available here.
-Getting Started 
-lable while the Call for Code Global Challenge is taking place. After you agree to the terms, you will receive your API key.  Additional documentation about The Weather Company APIs for Call for Code is available [here](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/).
-
+* OpenWeatherMap.org account https://openweathermap.org/api
+* Create an empty directory named weather-app.
+* Open up your console, navigate to our new directory and run npm init.
+* Fill out the required information to initialize our project.
+* Within our weather-app directory, create a file named server.js — this file will house the code for our application.
+* npm install --save express
+* install in server.js
 
 ## Getting Started on your local machine
 
