@@ -1,4 +1,4 @@
-* OpenWeatherMap.org account https://openweathermap.org/api
+* Open weatherstack.com account http://api.weatherstack.com
 * Create an empty directory named weather-app.
 * Open up your console, navigate to our new directory and run npm init.
 * Fill out the required information to initialize our project.
@@ -21,9 +21,8 @@ To run this application on your local machine, first install Node.js.
    ```
 3. Set your Weather API key `<YOUR_API_KEY>` when running the application
    ```
-   $ WEATHER_API_KEY=<YOUR_API_KEY> node app.js
+   access_key in app.js
    ```
-4. Run with
-   ```
-   $ npm install
-   ```
+4. * Run: `npm run dev`
+
+* Now open your browser and visit: http://localhost:3000
