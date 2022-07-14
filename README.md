@@ -4,7 +4,7 @@
 * Fill out the required information to initialize our project.
 * Within our weather-app directory, create a file named server.js — this file will house the code for our application.
 * npm install --save express
-* install in server.js
+* install in app.js
 
 ## Getting Started on your local machine
 
